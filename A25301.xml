@@ -1,0 +1,184 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The Amicable reconciliation of the dissenters to the Church of England being a model or draught for the universal accommodation in the case of religion and the bringing in all parties to her communion ...</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1689</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 18 KB of XML-encoded text transcribed from 2 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2013-12">2013-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A25301</idno>
+            <idno type="STC">Wing A3011</idno>
+            <idno type="STC">ESTC R16800</idno>
+            <idno type="EEBO-CITATION">12725586</idno>
+            <idno type="OCLC">ocm 12725586</idno>
+            <idno type="VID">66366</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A25301)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 66366)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 373:9)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The Amicable reconciliation of the dissenters to the Church of England being a model or draught for the universal accommodation in the case of religion and the bringing in all parties to her communion ...</title>
+               </titleStmt>
+               <extent>1 sheet ([2] p.)   </extent>
+               <publicationStmt>
+                  <publisher>Printed for R. Hayhurst ...,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1689.</date>
+               </publicationStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Church of England.</term>
+               <term>Dissenters, Religious --  England.</term>
+               <term>Broadsides --  England --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-05</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-06</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2012-07</date>
+            <label>Judith Siefring</label>Sampled and proofread</change>
+         <change>
+            <date>2012-07</date>
+            <label>Judith Siefring</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2013-02</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb facs="tcp:66366:1"/>
+            <pb facs="tcp:66366:1"/>
+            <head>The Amicable Reconciliation of the DISSENTERS TO THE Church of England: BEING A <hi>Model</hi> or <hi>Draught</hi> for the <hi>Univerſal Accommodation</hi> in the Caſe of <hi>Religion,</hi> and the Bringing in all <hi>Parties</hi> to Her <hi>Communion.</hi>
+            </head>
+            <head type="sub">Humbly preſented to the Conſideration of Parliament.</head>
+            <p>VVHereas there are ſeveral parties of Chri<g ref="char:EOLhyphen"/>ſtians in the Nation, who muſt and will ever differ in their Opinions about the Church and Diſcipline of it, in the Queſtion which is of Chriſt's Inſtitu<g ref="char:EOLhyphen"/>tion, it is not our Diſputes about the Church as <hi>particu<g ref="char:EOLhyphen"/>lar</hi> (which are rather to be mutually forborn, and every party left herein to their own Perſwaſion) but a com<g ref="char:EOLhyphen"/>mon-Agreement in what we can agree, and that is in the Church as <hi>National,</hi> muſt heal our Breaches.</p>
+            <p>The Catholicks are for one Univerſal Organical Church throughout the World, whereof the Pope is Head accor<g ref="char:EOLhyphen"/>ding to ſome, and the Biſhops Convened in a general Coun<g ref="char:EOLhyphen"/>cil according to others.</p>
+            <p>That there is a Catholick Church Viſible on earth, as well as Inviſible, whereof CHRIST is Head, who was on Earth, and is now Viſible in Heaven, is paſt doubt alſo with Proteſtants: But that this Church is <hi>Organical</hi> and under the Government either of a <hi>Monarchy</hi> by the <hi>Pope,</hi> or of an <hi>Ariſtocracy</hi> by a <hi>General Council,</hi> it ſeems a thing not poſſible in nature, becauſe neither can any <hi>Oecu<g ref="char:EOLhyphen"/>menical Council</hi> ever be Called, nor any <hi>One</hi> man be ſuffici<g ref="char:EOLhyphen"/>cient to take on him the Concernments of the whole <hi>World.</hi>
+            </p>
+            <p>A Political Church, is a Community of Chriſtians brought into an Order of Superiority and Inferiority by an Head and Members, organized for the Exerciſe of that Govern<g ref="char:EOLhyphen"/>ment which is proper to it: But the whole Earth is not capable of any ſuch Order, And Councils therefore which are gather'd out of ſeveral Countries, or of Biſhops be<g ref="char:EOLhyphen"/>longing to more Dominions than of one Supreme Power may be had for mutual Advice and <hi>Concord,</hi> but not for <hi>Government.</hi>
+            </p>
+            <p>A Nation, Empire, or Kingdom, which conſiſts of one Supreme Magiſtrate and People, who are generally Chri<g ref="char:EOLhyphen"/>ſtians are capable of ſuch an Eccleſiaſtical polity, and a National Church Political in <hi>England</hi> is to be aſſerted and maintained.</p>
+            <p>The Church of <hi>England</hi> then is a Political Society of all the Chriſtians in the Land, united in the King as Head, and organized by the Biſhops, for the executing thoſe Laws or Government which he chooſes for their ſpiritual Good and the publick peace.</p>
+            <p>There is this difference between a Church <hi>National,</hi> the Church <hi>Catholick,</hi> and <hi>Particular</hi> Churches: The two lat<g ref="char:EOLhyphen"/>ter are of <hi>Divine Right</hi> and <hi>Eſſential</hi> Conſideration, but the former is and can be only of <hi>Humane Inſtitution,</hi> for it is manifeſtly <hi>Accidental</hi> to the Church of Chriſt that the chief Magiſtrate and the whole People ſhould be <hi>Chriſtian.</hi>
+            </p>
+            <p>Diſtinguiſh we here of the Government of the Church as <hi>Internal</hi> belonging to the <hi>Spirit,</hi> and <hi>External</hi> which be<g ref="char:EOLhyphen"/>longs to <hi>Men:</hi> And of the <hi>External</hi> Regiment thereof, which is either <hi>Formal</hi> belonging to the <hi>Miniſters,</hi> or Offi<g ref="char:EOLhyphen"/>cers of Chriſt; or <hi>Objective</hi> belonging to the <hi>Magiſtrate:</hi> the one being only by the <hi>Keyes,</hi> the other by the <hi>Sword.</hi> Whether the Community now of Chriſtians in <hi>England</hi> may be a counted a National Church in reſpect to any Formal Government of it, we leave for diſpute to others; let them judge according to the foregoing Definition of a po<g ref="char:EOLhyphen"/>litical Church: But that the main body of the Nation are, or may be conſtituted a proper Political Church Nati<g ref="char:EOLhyphen"/>onal in reſpect to that External Objective Regiment, which is, or ſhould be exerciſed by the Biſhops as the proper Or<g ref="char:EOLhyphen"/>gans thereof under the King, is what we hold reaſonable, and would lay as the Foundation Stone of Peace, in the matter of <hi>Religion</hi> between all perſons in the Kingdom.</p>
+            <p>Let the Parliament therefore we have, be heartily for the publick good and thriving of <hi>England,</hi> which muſt and can be only by an entire Liberty of Conſcience in oppo<g ref="char:EOLhyphen"/>ſition to the narrow Spirit of any ſingle party or faction, and when ſuch a Parliament as this ſhall ſet themſelves about the Buſineſs of Union to purpoſe, a Bill ſhould be brought in, Entituled, <hi>An Act for declaring the Conſtitution of our Church of England.</hi>
+            </p>
+            <p>A Parliament is the Repreſentative of the whole Nation and no doubt but by Conſent and Agreement they might (upon the account mentioned) <hi>Make</hi> a new Conſtitu<g ref="char:EOLhyphen"/>tion, and much more may they <hi>Declare</hi> the Conſtitution of it.</p>
+            <p>It ſhould be declared then in ſuch a Bill or Act that the Church of <hi>England</hi> conſiſts of the King as the Head, or <hi>pars Imperans,</hi> who is to give Laws thereto, and all the ſeveral Aſſemblies of Chriſtiaus which he ſhall tolerate, as the <hi>pars ſubdita,</hi> or Body.</p>
+            <p>Some Diſcrimination between the <hi>Tolerable</hi> and <hi>Intolerable</hi> is indeed never to be gain ſaid by any wiſe and good man; unto whom there is no Liberty can be deſirable, which is not conſiſtent at leaſt with theſe three things, the <hi>Articles</hi> of our <hi>Creed,</hi> a <hi>Good Life,</hi> and the Fundamental <hi>Government</hi> of the <hi>Kingdom.</hi>
+            </p>
+            <p>It is not for any private perſons, but a Parliament, to preſcribe the terms of National Communion: But we would have all our Aſſemblies that are Tolerable, to be made <hi>Le<g ref="char:EOLhyphen"/>gal</hi> by ſuch an Act (and thereby parts of the National Church) as well as the Parochial Congregations.</p>
+            <p>The Church here therefore muſt come under a double conſideration, as the Church of <hi>Chriſt,</hi> and as the Church of <hi>England.</hi> Take the Church as the Church of Chriſt, and there muſt be (as we have ſaid at firſt) endleſs Contro<g ref="char:EOLhyphen"/>verſie about this point, who are the true Members of it: but take it under the conſideration as <hi>National,</hi> and there will be none at all, for thoſe muſt be Members whom the Head by a Law does allow to be parts of the Body, and the King under this notion only is made Head of the Church by the Stature, that is, as it is called <hi>Eccleſia Anglicana.</hi>
+            </p>
+            <p>The Proteſtant Diſſenters of all ſorts, as well as the Con<g ref="char:EOLhyphen"/>formiſts, will acknowledge the King to be Supreme coercive Governour over all Perſons, and in all Cauſes, Eccleſiaſti<g ref="char:EOLhyphen"/>cal and Civil, throughout his Dominions; And will not thoſe who are <hi>Roman Catholicks</hi> do the like? Did they not do ſo in <hi>Henry</hi> the Eight's time, when they were generally ſuch? Again, the Diſſenters of all ſorts, even the Congregationa<g ref="char:EOLhyphen"/>liſts of every Sect, are ready to ſubmit to any power le<g ref="char:EOLhyphen"/>gally derived from the King, and upon ſuch an account will
+<pb facs="tcp:66366:2"/>
+               <pb facs="tcp:66366:2" rendition="simple:additions"/>admit of a ſuperintendency of the Biſhops, as Eccleſiaſtical Magiſtrates under him, when they cannot own any Autho<g ref="char:EOLhyphen"/>rity that they have over other Miniſters from <hi>Jeſus Chriſt;</hi> and will not Papiſts alſo be ſubject to all Authority that is exerciſed legally in his Name, howſoever they may que<g ref="char:EOLhyphen"/>ſtion the ſpiritual Title of the Engliſh Clergy and their ſucceſſion?</p>
+            <p>We would have the Biſhops then (<hi>qua Biſhops,</hi> as diſtinct in <hi>Office</hi> from <hi>Prieſts</hi>) declared no other than the King's Officers whoſe power is but <hi>Objectively</hi> Eccleſiaſtical, and to act <hi>Circa Sacra</hi> only, by Vertue of his Authority and Commiſſion.</p>
+            <p>As <hi>Jehoſhaphat</hi> did commit the Charge incumbent upon him as Supreme Magiſtrate, in regard to all <hi>Matters of the Lord,</hi> unto the care of <hi>Amariah,</hi> being <hi>Chief Prieſt,</hi> and in regard to the <hi>King's Matters</hi> unto <hi>Zebadiah,</hi> being as the <hi>Chief Juſtice</hi> of the Realm: ſo ſhould the Dioceſan Biſhop be in our <hi>Eccleſiaſtical,</hi> as the Judges are in <hi>Civil</hi> Matters the Subſtitutes altogether of His Majeſty, and execute his Ju<g ref="char:EOLhyphen"/>riſdiction.</p>
+            <p>This is indeed a State point which was throughly can<g ref="char:EOLhyphen"/>vaſed by <hi>Henry</hi> the <hi>Eight,</hi> whoſe Divines did agree on two Orders alone, <hi>Prieſt</hi> and <hi>Deacon,</hi> to be of <hi>Divine</hi> Appoint<g ref="char:EOLhyphen"/>ment, and that the Superiority of a Biſhop over a Presbyter, <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> of one Biſhop over another, was but by the <hi>Poſitive</hi> 
+               <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>aws of Men only, as appears in that Authentick Book then put out, entituled, <hi>The Neceſſary Erudition:</hi> And conſe<g ref="char:EOLhyphen"/>quently, that the Biſhop could not have, or exert any Ju<g ref="char:EOLhyphen"/>riſdiction over the Subject unleſs warranted and derived from the King without danger of a <hi>Premunire;</hi> which made <hi>Bonner</hi> (with others) hold his Biſhoprick by Commiſſi<g ref="char:EOLhyphen"/>on.</p>
+            <p>Upon this ground, if it ſhould pleaſe His Majeſty to chuſe ſome perſons of the <hi>Diſſenters</hi> to this Office, authorizing them to it no otherwiſe, than by a like Commiſſion (which they ſhould alſo hold, with the Judges, <hi>Quam diu ſe bene g<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ſſerint):</hi> As none of them could ſcruple then the acceptance, ſo muſt a Union from that day forward commence in <hi>England;</hi> eſpecially if he would not leave filling up the Vacancies that fall, with ſuch, till they in ſome meaſure equal the <hi>Conformiſts.</hi>
+            </p>
+            <p>We are ſenſible unto what Diſtreſs the Miniſters of a Particular Congregation of all ſorts may be brought in the exerciſe of Diſcipline over ſome potent, turbulent, and re<g ref="char:EOLhyphen"/>fractory Members; and what relief he might find in ſuch an external Eccleſiaſtical Officer as this: We are ſenſible how many inconveniencies of Congregational Epiſcopacy may by this means onely be ſalved.</p>
+            <p>Their work in general ſhould be to ſuperviſe the Churches of all parties in their Dioceſſes, that they walk according to their own principles, in due order, agreeable to the Goſpel, and the peace of one another. And more parti<g ref="char:EOLhyphen"/>cularly in the obſervance of all Laws and limitations, rules or Canons, which the King as Supreme Head, ſhall by advice of a Convocation, or the conſent of his three Eſtates in Parliament, make on purpoſe, and impoſe upon them, with reſpect both to the publick emolument, and the ſafety of his own Perſon, Dignity, and Dominions.</p>
+            <p>For example, ſuppoſe this to be one Canon or Injunction, That no <hi>Novic<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>,</hi> but ſuch as are Grave Men only among the <hi>Sects,</hi> be admitted to be <hi>Teachers.</hi> Another, this, That the doors be kept open in all <hi>Conventicles</hi> for any that will to come in and hear, that no Sedition be there hatched or bro<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ched. There are ſuch and many the like <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>poſitions may be ſound, very fit to be laid on ſome per<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ons, not needful for others, and it is Time, and the Trial, and Experience which muſt be the Mother to bring them forth, and cultivate them after, to their beſt advantage.</p>
+            <p>To the making ſuch Canons, we humbly motion a third <hi>Clerk</hi> for the <hi>Convocation,</hi> to be added to the two in every <hi>Dioceſs,</hi> and choſe out of the <hi>Diſſenters</hi> with indifferent re<g ref="char:EOLhyphen"/>ſpect to all ſorts of them, that mutual ſatisfaction and con<g ref="char:EOLhyphen"/>cord may thereby be proſecuted with unanimity of heart and good will throughout all the Churches: And the two Provinces of <hi>Canterbury</hi> and <hi>York</hi> ſhould <hi>
+                  <g ref="char:V">Ʋ</g>nite</hi> in this Con<g ref="char:EOLhyphen"/>vocation for the making them one <hi>National Church,</hi> and not two <hi>Provincial</hi> ones in a diverſe Aſſembly.</p>
+            <p>By this means ſhall one Organ more be added to this great political Society for deriving an influence from the Head to theſe parts of the Body as well as others, which now ſeem neglected, and to have no care taken of them.</p>
+            <p>The more eſpecial buſineſs of ſuch an equally Modell<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>d Convocation ſhould be the reviſing the book of Canons, for the reverſing the main body of them, having been fitted to that narrow ſcantling which is unworthy the Church of <hi>England,</hi> and for the leaving only thoſe, and making new (as we have exemplified in one or two for inſtance ſake even now) which do, and will ſuit to that larger Conſtitution thereof intended by this Paper.</p>
+            <p>And having now ſaid thus much for Explanation of this Deſign, we muſt ſay ſome little alſo in favour of it.</p>
+            <p>The Deſign of ſuch an Accommodation as this, ſhall <hi>ad<g ref="char:EOLhyphen"/>vance</hi> not <hi>leſſen</hi> the outward power and honour of the <hi>Biſhop,</hi> extending it over thoſe who before had no conſcientious regard for their Function: while yet it would eaſe them of the tremendous burden of ſuch a <hi>Cura animarum</hi> they take on them otherwiſe, as muſt be of impoſſible performance.</p>
+            <p>This Deſign (which is ſuppos'd to find us in our Diviſi<g ref="char:EOLhyphen"/>ons, and not to make any) ſhall by little and little (with God's bleſſing on it) cool Animoſities, and enkindle Charity and Holineſs among all parties, which now is ſo much wan<g ref="char:EOLhyphen"/>ting, while thoſe that are Catholicks, and thoſe that are Proteſtants, and much more thoſe that are <hi>Conformiſts,</hi> and thoſe that are <hi>Nonconformiſts,</hi> do agree in the ſubſtance of one Chriſtianity, having the ſame Scriptures, the ſame Arti<g ref="char:EOLhyphen"/>cles of Faith in the three Creeds, and the ſame rule of Manners in the Decalogue, <hi>There is one Body, one Spirit, one Lord, one Faith, one Baptiſm.</hi> They cannot indeed have both Commu<g ref="char:EOLhyphen"/>nion in the ſame External Worſhip, but they can have it in the Internal Adoration of the ſame bleſſed Trinity, and in One Hope of our calling unto eternal Life through <hi>Chriſt Jeſus.</hi> They muſt Separate into ſeveral Congregations, but there ſhall be no <hi>Schiſm</hi> in the <hi>Body</hi> by this means for all that.</p>
+            <p>For as while the Supreme Power allows only the Parochial Meetings, as eſtabliſhed by Law, it hath bin accounted Schiſm to go to Separate Aſſemblys: So if the Scene be altered, and theſe <hi>Separate</hi> Congregations be alſo made <hi>Legal,</hi> this <hi>Schiſm,</hi> or mens being called <hi>Schiſmaticks,</hi> in that regard, muſt veniſh, and be at an end. Indeed theſe divers Congregations will Accuſe one another as guilty of Sin and Schiſm before <hi>God,</hi> for each ſepara<g ref="char:EOLhyphen"/>ting from the others Communion, and threaten <hi>his</hi> Judgment: but ſo long as there is no ſeparating from the Church whereof the King is Head, while he tolerates the Meetings of both, and makes them parts of it as National, there ſhall be no pro<g ref="char:EOLhyphen"/>ſecution of Law againſt any, but all quiet, as fellow-Members upon that account.</p>
+            <p>Onely, as to the <hi>Roman Catholicks,</hi> it is not indeed for them to imagine that a Proteſtant King and Parliament ſhould al<g ref="char:EOLhyphen"/>low of their <hi>Maſs</hi> in Pubblick, as they do of the Service Book. This were not to <hi>tolerate</hi> the <hi>Papiſts,</hi> but to <hi>ſet up Popery</hi> where<g ref="char:EOLhyphen"/>as the <hi>Determining</hi> what is to be permitted to <hi>one</hi> Party, and what to <hi>another,</hi> ſo as no <hi>Detriment</hi> may be brought to the <hi>Church</hi> or <hi>State,</hi> and no Sin or Guilt upon the Nation by that permiſſion, is a nice thing, and the buſineſs of this Parliament.</p>
+            <p>There is one Motion farther ſhould be added, and that is for another Bill alſo to be brought in to take away Pluralities, (which is the Peſt of our preſent Conforming Clergy) I mean both of <hi>Livings</hi> and <hi>Dignities</hi> impartially, to this end, that the King may have wherewithal to engage thoſe he receives in<g ref="char:EOLhyphen"/>to the Church thus enlarged, and conſequently reſtores to their Labours, by this Accomodation; for that is a thing will make the favour indeed fignificant to ſuch perſons.</p>
+            <p>I will conclude with one Argument for what I have propo<g ref="char:EOLhyphen"/>ſed. There is no power given upon earth for any man to com<g ref="char:EOLhyphen"/>mand that which he in his Conſcience does judge to be Sin. <hi>Non datur poteſtas ad malum.</hi> But to conform in all things to the preſent Church according to Law, is Sin in the judgment of <hi>Diſſenters, Catholicks,</hi> and others; and the Late King was a <hi>Diſſenter</hi> of one ſort himſelf. The King therefore that was ſo lately, could not really put the <hi>Catholicks</hi> upon Conformi<g ref="char:EOLhyphen"/>ty, and if he would appear equal to all his People, he could not put any other <hi>Diſſenters</hi> on it neither, for the ſame Cauſe. That which the Law requires was both in his Conſcience and in theirs, a thing prohibited of God. He could not therefore put the Laws in Execution being againſt God. And if He could not do it acting only but as an honeſt Man that abides by his Principles: we have no reaſon to apprehend that ſo good a King and Queen as we have now, ſhould be ever brought to do it, Maugre all the Enticements of the Church of <hi>England,</hi> or Frowns of the Church of <hi>Rome.</hi>
+            </p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>
+               <hi>London,</hi> Printed for <hi>R. Hayhurſt</hi> in <hi>Little-Britain.</hi> 1689.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
